@@ -1,6 +1,10 @@
 # LibForQ-v1
 Fortran code for generating random numbers, random probability vectors, unitaries, and quantum states
 
+Find the description in: 
+J. Maziero, “Fortran Code for Generating Random Probability Vectors, Unitaries, and Quantum States,” Frontiers in ICT, vol. 3, 2016, https://www.frontiersin.org/articles/10.3389/fict.2016.00004
+
+
 LibForQ: A Fortran Library for Quantum Information Science
 In this first version, generators for random numbers, probability vectors, unitary matrices, state vectors, 
 and density matrices are provided. Some matrix functions are also included (see the files matfun.f90 and qnesses.f90).
