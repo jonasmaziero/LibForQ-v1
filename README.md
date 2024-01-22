@@ -1,5 +1,5 @@
 # LibForQ-v1
-Fortran code for generating random probability vectors, unitaries, and quantum states
+Fortran code for generating random numbers, random probability vectors, unitaries, and quantum states
 
 LibForQ: A Fortran Library for Quantum Information Science
 In this first version, generators for random numbers, probability vectors, unitary matrices, state vectors, 
